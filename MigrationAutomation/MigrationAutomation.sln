@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MigrationAutomation", "MigrationAutomation\MigrationAutomation.dtproj", "{F9C5BB7B-BF15-4EC8-804D-48ABC058D7F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9C5BB7B-BF15-4EC8-804D-48ABC058D7F3}.Development|Default.ActiveCfg = Development
+		{F9C5BB7B-BF15-4EC8-804D-48ABC058D7F3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90394611-B1E0-4DF4-A602-3B7ED41BA6B7}
+	EndGlobalSection
+EndGlobal
