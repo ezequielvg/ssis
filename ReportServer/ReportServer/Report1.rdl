@@ -113,7 +113,7 @@ GROUP BY country</CommandText>
             </Paragraphs>
             <rd:DefaultName>textbox1</rd:DefaultName>
             <Height>0.66389in</Height>
-            <Width>10.11458in</Width>
+            <Width>10.42708in</Width>
             <Style>
               <PaddingLeft>2pt</PaddingLeft>
               <PaddingRight>2pt</PaddingRight>
@@ -641,7 +641,7 @@ GROUP BY country</CommandText>
         <Height>0.87389in</Height>
         <Style />
       </Body>
-      <Width>10.11459in</Width>
+      <Width>10.42708in</Width>
       <Page>
         <LeftMargin>1in</LeftMargin>
         <RightMargin>1in</RightMargin>
